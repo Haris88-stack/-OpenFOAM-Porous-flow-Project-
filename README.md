@@ -40,16 +40,16 @@ In all cases:
 
 For the random porous media cases, two additional configurations are considered:
 
--**Particles of uniform size**
--**Particles of varying sizes**
+- **Particles of uniform size**
+- **Particles of varying sizes**
 
 This allows investigation of the effect of pore size distribution on flow dynamics.
 
 ## Boundary and Physical Conditions
-**Driving mechanism:** Gravity-driven flow only
-**No imposed velocity** at inlet or outlet
-**All external boundaries and particle surfaces** are treated as **walls**
-A **no-slip boundary condition** is applied on all walls and solid surfaces
+- **Driving mechanism:** Gravity-driven flow only
+- **No imposed velocity** at inlet or outlet
+- **All external boundaries and particle surfaces** are treated as **walls**
+- A **no-slip boundary condition** is applied on all walls and solid surfaces
 
 ## Pressure Treatment (interFoam)
 
