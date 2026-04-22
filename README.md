@@ -16,7 +16,7 @@ Within the 2D extruded cases, three types of porous media structures are investi
 - **Staggered arrays:** particles arranged in offset configurations to enhance pore connectivity
 - **Random arrangements:** particles distributed non-uniformly to mimic more realistic porous structures
 
-## 3D Cases
+**3D Cases**
 
 The 3D configurations follow a structure similar to the 2D extruded cases, including regular, staggered, and random porous media arrangements. The same multiphase flow scenarios (water–air and water–oil) are investigated under gravity-driven conditions.
 
