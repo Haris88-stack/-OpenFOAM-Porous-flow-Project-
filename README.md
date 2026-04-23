@@ -57,7 +57,6 @@ The simulations use the standard pressure formulation of the interFoam solver. F
 
 ## Cases Structure
 PorousFlow/
-└── interFoam/
     ├── 2D_extruded/
     │   ├── regular/
     │   ├── staggered/
@@ -82,7 +81,7 @@ Each individual case follows the standard OpenFOAM structure:
   
 ## Computational Resources
 
-Due to the high computational cost of the 3D simulations, particularly the large meshes containing millions of cells, these cases were not feasible to run on a standard laptop. As a result, the 3D simulations were executed using CloudHPC resources, which provide the necessary computational power and memory to handle large-scale multiphase flow problems.
+Due to the high computational cost of the 3D simulations, particularly the large meshes containing millions of cells, these cases can not be feasible to run on a standard laptop. As a result, the 3D simulations can be executed using CloudHPC resources, which provide the necessary computational power and memory to handle large-scale multiphase flow problems.
 
 The use of CloudHPC enabled:
 
