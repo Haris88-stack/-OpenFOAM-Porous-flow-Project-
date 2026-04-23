@@ -99,3 +99,5 @@ This project allows:
 - Comparison between structured and random geometries
 - Study of multiphase interactions (water–air vs water–oil)
 - Investigation of the impact of particle arrangement and size distribution
+
+Download the full project folder here: [InterFoam.zip](InterFoam.zip)
